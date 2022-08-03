@@ -1,5 +1,5 @@
 ## Investable Properties
-### How to rum
+### How to run
 Please use the commands `npm install` to install all the dependencies and `npm run start` to  run the server, which will be listening in **port 3000**.
 
 Once the server is running, you can perform a GET operation from the browser or any other HTTP client:
