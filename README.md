@@ -6,7 +6,7 @@ Once the server is running, you can perform a GET operation from the browser or 
 `http://localhost:3000/getInvestableProperties/{top_level_region}`
 
 Example:
-`http://localhost:3000/getInvestableProperties/level`
+`http://localhost:3000/getInvestableProperties/london`
 
 ### Remarks
 This solution has been developed using a hash map approach.
